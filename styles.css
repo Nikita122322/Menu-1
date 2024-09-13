@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.menu {
+    width: 400px;
+    height: 550px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 3px solid #ccc;
+    border-radius: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+}
+
+#breakfast {
+    background-image: url('https://www.delscookingtwist.com/wp-content/uploads/2022/01/Easy-Fluffy-American-Pancakes_1.jpg'); /* Add your image path */
+}
+
+#lunch {
+    background-image: url('https://olo-images-live.imgix.net/9c/9cee44669ebb4f28b5ec79a61ad68d9f.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=56950e2361aa17b03eb38cee16129cc2'); /* Add your image path */
+}
+
+#dinner {
+    background-image: url('https://www.preciouscore.com/wp-content/uploads/2024/06/Steak-and-Pasta-thumbnail.jpg'); /* Add your image path */
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    font-size: 18px;
+}
